@@ -1,0 +1,30 @@
+start:
+  position:
+    x: null
+    y: null
+    z: null
+  orientation:
+    x: null
+    y: null
+    z: null
+    w: null
+pedestrain_crossing:
+  position:
+    x: 0.5950751931860442
+    y: -0.5605970857438608
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.720443237286694
+    w: 0.6935139089072895
+cones:
+  position:
+    x: -0.12569448040603637
+    y: -0.9762603937470582
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7022363367171616
+    w: 0.7119439074773105

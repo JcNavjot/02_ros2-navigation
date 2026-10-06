@@ -1,0 +1,30 @@
+corner1:
+  position:
+    x: 0.8157153129577637
+    y: 0.10450387001037598
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+corner2:
+  position:
+    x: -0.6039705276489258
+    y: -1.2759830951690674
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+pedestrian:
+  position:
+    x: 0.0671994686126709
+    y: 0.10683798789978027
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
