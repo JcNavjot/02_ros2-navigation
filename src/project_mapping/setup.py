@@ -19,9 +19,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='navjot',
-    maintainer_email='navjot@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='navjotsinghsodhi52@gmail.com',
+    description='Cartographer-based mapping and saved map configuration for the navigation system',
     extras_require={
         'test': [
             'pytest',

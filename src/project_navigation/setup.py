@@ -20,9 +20,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='navjot',
-    maintainer_email='navjot@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='navjotsinghsodhi52@gmail.com',
+    description='Main navigation bring-up launch package integrating localization, planning, navigation, and RViz2',
     extras_require={
         'test': [
             'pytest',

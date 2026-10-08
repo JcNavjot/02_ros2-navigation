@@ -3,9 +3,8 @@
 <package format="3">
   <name>project_path_planning</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="navjot@todo.todo">navjot</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Nav2 planning, control, behavior configuration, and reusable navigation goals.</description>
+  <maintainer email="navjotsinghsodhi52@gmail.com">Navjot Singh</maintainer>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>

@@ -30,9 +30,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='navjot',
-    maintainer_email='navjot@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='navjotsinghsodhi52@gmail.com',
+    description='Nav2 planning, control, behavior configuration, and reusable navigation goals',
     
     extras_require={
         'test': [

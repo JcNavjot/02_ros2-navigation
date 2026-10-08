@@ -3,9 +3,8 @@
 <package format="3">
   <name>project_navigation</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="navjot@todo.todo">navjot</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Main navigation bring-up launch package integrating localization, planning, navigation, and RViz2.</description>
+  <maintainer email="navjotsinghsodhi52@gmail.com">Navjot Singh</maintainer>
 
   <depend>rclpy</depend>
   <depend>launch</depend>
